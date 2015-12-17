@@ -11,7 +11,7 @@
 }
 
 .image-target {
-  background: #000;
+  background: white;
   overflow: hidden;
   position: absolute;
   z-index: 50;
